@@ -1,5 +1,5 @@
-IP: '158.160.64.232'
-name_taski:https://bomj.hopto.org/
-name_kittygram: https://kittybomj.hopto.org/
+IP: '158.160.64.232';
+name_taski:https://bomj.hopto.org/;
+name_kittygram: https://kittybomj.hopto.org/;
 login: admin;
 password: adm123;
