@@ -11,7 +11,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 
 DEBUG = os.getenv('DEBUG') in ('True', '1')
 
-HOSTS_ENV = os.getenv('HOSTS')
+HOSTS = os.getenv('HOSTS')
 ALLOWED_HOSTS = HOSTS.split(',') if HOSTS else []
 
 INSTALLED_APPS = [
